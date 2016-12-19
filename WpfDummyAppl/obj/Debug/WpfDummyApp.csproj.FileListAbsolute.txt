@@ -1,0 +1,14 @@
+C:\AppDevelopment\WpfDummyApp\WpfDummyAppl\bin\Debug\WpfDummyAppl.exe.config
+C:\AppDevelopment\WpfDummyApp\WpfDummyAppl\bin\Debug\WpfDummyAppl.exe
+C:\AppDevelopment\WpfDummyApp\WpfDummyAppl\bin\Debug\WpfDummyAppl.pdb
+C:\AppDevelopment\WpfDummyApp\WpfDummyAppl\obj\Debug\WpfDummyApp.csprojResolveAssemblyReference.cache
+C:\AppDevelopment\WpfDummyApp\WpfDummyAppl\obj\Debug\MainWindow.g.cs
+C:\AppDevelopment\WpfDummyApp\WpfDummyAppl\obj\Debug\App.g.cs
+C:\AppDevelopment\WpfDummyApp\WpfDummyAppl\obj\Debug\WpfDummyAppl_MarkupCompile.cache
+C:\AppDevelopment\WpfDummyApp\WpfDummyAppl\obj\Debug\WpfDummyAppl_MarkupCompile.lref
+C:\AppDevelopment\WpfDummyApp\WpfDummyAppl\obj\Debug\MainWindow.baml
+C:\AppDevelopment\WpfDummyApp\WpfDummyAppl\obj\Debug\WpfDummyAppl.g.resources
+C:\AppDevelopment\WpfDummyApp\WpfDummyAppl\obj\Debug\WpfDummyAppl.Properties.Resources.resources
+C:\AppDevelopment\WpfDummyApp\WpfDummyAppl\obj\Debug\WpfDummyApp.csproj.GenerateResource.Cache
+C:\AppDevelopment\WpfDummyApp\WpfDummyAppl\obj\Debug\WpfDummyAppl.exe
+C:\AppDevelopment\WpfDummyApp\WpfDummyAppl\obj\Debug\WpfDummyAppl.pdb
